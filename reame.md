@@ -6,4 +6,4 @@
     - [ ]  Evaluate
     - [ ]  Logging wandb
     - [ ]  DDPM, DDIM
-    - [ ]  Cải tiến Thảo seminar
+    - [ ]  Cải tiến Thảo seminar - fix github user
